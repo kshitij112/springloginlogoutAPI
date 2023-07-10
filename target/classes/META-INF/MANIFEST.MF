@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: kshitij
+Build-Jdk: 17.0.6
+Implementation-Title: gs-accessing-data-mongodb
+Implementation-Version: 0.1.0
+Implementation-Vendor-Id: org.springframework
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/gs-accessing-d
+ ata-mongodb/
+Created-By: Maven Integration for Eclipse
+
